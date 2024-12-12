@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'dchat',
     'app',
     'channels',
+    'daphne',
 
 ]
 
